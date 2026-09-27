@@ -1,0 +1,12 @@
+{
+  "appId": "com.primemax.gennylog",
+  "appName": "Genny Log",
+  "webDir": "capacitor-www",
+  "server": {
+    "url": "https://project--10a8d8c9-5173-4b16-80f8-c9dce88e6ad2.lovable.app",
+    "cleartext": false
+  },
+  "android": {
+    "backgroundColor": "#17130f"
+  }
+}
